@@ -10,7 +10,7 @@ Social media links (GitHub, LinkedIn, LeetCode)
 👨‍💻 About Section
 
 Comprehensive bio with your educational background
-Education card showing B.Tech CSIT at ABES Engineering College
+Education card showing B.Tech CSIT at Ajay KUmar Garg Engineering College Ghaziabad
 Achievement highlights and location info
 Quick stats showing projects completed and problems solved
 🛠️ Skills Section
